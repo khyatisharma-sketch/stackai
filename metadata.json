@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A highly accurate weather app combining global real-time weather and air quality telemetry with tailored Gemini AI intelligence reports and lifestyle advice.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
